@@ -12,7 +12,7 @@ Report it privately, not as a public issue, pull request or discussion: open the
 
 ## What happens next
 
-- Acknowledgment of the report within 7 days.
+- Acknowledgment of the report within 14 days.
 - An assessment (accepted or declined, with the reason) within 30 days.
 - For an accepted report, a fix or a mitigation within 90 days of the report; the advisory names the date if it takes longer.
 
