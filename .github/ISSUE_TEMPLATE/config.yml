@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/eikelandin/.github/blob/main/SECURITY.md
+    about: Report it privately on the repository's Security tab, not as an issue.
